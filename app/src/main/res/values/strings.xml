@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clap App</string>
+    <string name="msg_no_sensor">No Proximity Sensor Present</string>
+    <string name="msg_app_intro">Proximity Sensor to simulate Claps.
+    Increase/Decrease Sound based on Proximity
+    </string>
+
+</resources>
